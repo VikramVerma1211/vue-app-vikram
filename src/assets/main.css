@@ -1,0 +1,35 @@
+a {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+}
+
+button {
+  background-color: #4444de;
+  color: white;
+  border: none;
+  padding: 10px 50px;
+}
+
+.gap-10 {
+  gap: 10px;
+}
+
+.ml-3 {
+  margin-left: 10px;
+  margin-top: 10px;
+}
